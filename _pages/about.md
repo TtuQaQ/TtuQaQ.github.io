@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "The best people in life are free"
 author_profile: true
 redirect_from: 
   - /about/
@@ -20,6 +20,11 @@ In my spare time from scientific research, I greatly enjoy exploring the world, 
 ## 🎇welcome to Twentytu photograph！📷
 Photography is an important way for me to relax and express my creativity. I enjoy using my camera to record the wonders of nature and am also passionate about capturing the humanistic atmosphere in the city. Here, I will display some of my photographic works.
 
-/images/Z50_0204xin.jpg
+<img src="/images/Z50_0204xin.jpg" width="80%" alt="摄影作品1">
+<br>
+<em>The Corner Towers of the Forbidden City</em>
+<br><br>
 
-/images/Z50_0788.jpg
+<img src="/images/Z50_0788.jpg" width="80%" alt="摄影作品2">
+<br>
+<em>An ocean with an orange flavor</em>

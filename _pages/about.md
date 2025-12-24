@@ -19,5 +19,7 @@ In my spare time from scientific research, I greatly enjoy exploring the world, 
 
 ## 🎇welcome to Twentytu photograph！📷
 Photography is an important way for me to relax and express my creativity. I enjoy using my camera to record the wonders of nature and am also passionate about capturing the humanistic atmosphere in the city. Here, I will display some of my photographic works.
-/images/photo1.jpg
-/images/photo1.jpg
+
+../images/Z50_0204xin.jpg
+
+../images/Z50_0788.jpg
